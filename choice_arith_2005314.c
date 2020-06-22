@@ -20,9 +20,6 @@ int main()
     case 3	:
         printf("Multiplication of %d and %d is : %d",a,b,a*b);
         break;
-    case 4	:
-        printf("Division of Two Numbers is %d : ",a/b);
-        break;
     default	:
         printf("Enter Your Correct Choice.");
 
