@@ -25,7 +25,6 @@ int main()
         break;
     default	:
         printf("Enter Your Correct Choice.");
-        continue;
 
     }
 
